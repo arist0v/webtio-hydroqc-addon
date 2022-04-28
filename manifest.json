@@ -7,7 +7,7 @@
     "description": "Hydro-Quebec winter credit program adapter",
     "homepage_url": "https://github.com/Bad-Wolf-developpement/webtio-hydroqc-addon",
     "license": "MIT",
-    "author": "Arist0v",
+    "author": "Bad-Wolf-Developpement",
     "gateway_specific_settings": {
         "webthings":{
             "exec": "python3 {path}/main.py",
